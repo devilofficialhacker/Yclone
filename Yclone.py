@@ -402,7 +402,8 @@ __________________×______________________
  
   Github   :  DEVILOFFICIALHACKER 
 
-  Facebook : ⭐⭐⭐⭐
+  Facebook : Facebook I'd ka kya kroge me to ap logo ke 
+              dil me rehta hu to I'd me rakhke kya krogi
   
   Contact : +917409886569
 __________________×______________________\033[1;37m""")
@@ -415,12 +416,12 @@ class Main:
 		self.loop = 0
 		os.system("clear")
 		print(logo)
-		print("\n [1] File Cloning")
-		print(" [2] Public Cloning")
-		print(" [3] Create File")
-		print(" [4] 2009-10 Cloning")
-		print(" [5] 2011-14 Cloning")
-		print(" [E] Exit Programming\n")
+		print("\n [1]For File Cloning")
+		print(" [2] For Public Cloning")
+		print(" [3] Wanna Create File")
+		print(" [4] For 2009-10 idz Cloning")
+		print(" [5] 2011-14 idz Cloning")
+		print(" [E] Exit Devil\n")
 		DEVIL =input(" Choose : ")
 		if DEVIL in ["1", "01"]:
 			File()
@@ -891,7 +892,7 @@ class Main:
 				print("%s [!] IF NO RESULT USE AIRPLANE MODE 5 SECONDS\x1b[0m\n"%(P))
 				for user in self.id:
 					coeg.submit(self.api, user, listpass.split(","))
-			exit("\n\n [>>] CRACK COMPLETE...")
+			exit("\n\n [>>] DEVIL KING EXIT...")
 		except Exception as e:exit(str(e))
 
 	def api(self, uid, pwx):
