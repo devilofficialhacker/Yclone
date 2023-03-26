@@ -402,10 +402,12 @@ __________________×______________________
  
   Github   :  DEVILOFFICIALHACKER 
 
-  Facebook : Facebook I'd ka kya kroge me to ap logo ke 
-              dil me rehta hu to I'd me rakhke kya krogi
+  Status.  : Free tool
   
   Contact : +917409886569
+
+Download any German vpn from playstore and connect
+It before starting tool .
 __________________×______________________\033[1;37m""")
 
 class Main:
